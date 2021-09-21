@@ -1,4 +1,4 @@
-What happens when...
+What happens when you go to google.com?
 ====================
 
 This is an attempt to answer the age-old interview question "What
